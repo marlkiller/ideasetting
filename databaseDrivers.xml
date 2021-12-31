@@ -1,0 +1,17 @@
+<application>
+  <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="mysql.8">
+      <artifact />
+      <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="8.0.25" />
+    </driver>
+    <driver id="mysql">
+      <artifact />
+      <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="5.1.47" />
+    </driver>
+    <driver id="java.sql.Driver" name="mariadb" driver-class="org.mariadb.jdbc.Driver">
+      <library>
+        <url>file://$USER_HOME$/Documents/mid_soft/apache-tomcat-8.5.72/lib/mariadb-java-client-2.2.4.jar</url>
+      </library>
+    </driver>
+  </component>
+</application>
