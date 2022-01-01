@@ -37,6 +37,9 @@
     <keyboard-shortcut first-keystroke="shift alt f9" />
   </action>
   <action id="ClassTemplateNavigation" />
+  <action id="CloseActiveTab">
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
   <action id="CloseEditor">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
@@ -226,8 +229,12 @@
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
-  <action id="MoveStatementDown" />
-  <action id="MoveStatementUp" />
+  <action id="MoveStatementDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="MoveStatementUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="ctrl meta period" />
   </action>
