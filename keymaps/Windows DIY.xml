@@ -34,11 +34,21 @@
     <keyboard-shortcut first-keystroke="ctrl f9" />
   </action>
   <action id="Console.Jpa.GenerateDDL" />
+  <action id="Console.TableResult.CopyAggregatorResult" />
   <action id="Console.TableResult.EditValueMaximized">
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>
   <action id="Console.Transaction.Commit" />
   <action id="ContextHelp" />
+  <action id="CopyAbsolutePath" />
+  <action id="CopyPathWithLineNumber">
+    <keyboard-shortcut first-keystroke="shift ctrl alt c" />
+  </action>
+  <action id="CopyPaths" />
+  <action id="CopyReference">
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
+  <action id="DatabaseView.CopyDdlAction" />
   <action id="DatabaseView.SqlGenerator" />
   <action id="Debug">
     <keyboard-shortcut first-keystroke="shift alt d" />
@@ -58,9 +68,12 @@
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
+  <action id="EditorCreateRectangularSelection" />
+  <action id="EditorCreateRectangularSelectionOnMouseDrag" />
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="EditorFocusGutter" />
   <action id="EditorNextWord" />
   <action id="EditorPreviousWord" />
   <action id="EditorScrollDown" />
@@ -187,6 +200,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl l" />
     <keyboard-shortcut first-keystroke="shift alt l" />
   </action>
+  <action id="RemoteHostView.CopyPaths" />
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift ctrl r" />
   </action>
@@ -273,9 +287,14 @@
     <keyboard-shortcut first-keystroke="alt h" />
   </action>
   <action id="UML.ApplyCurrentLayout" />
+  <action id="UnselectPreviousOccurrence">
+    <keyboard-shortcut first-keystroke="shift alt y" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt g" />
+  </action>
   <action id="UpdateRunningApplication">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
+  <action id="WelcomeScreen.CopyProjectPath" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
   </action>
@@ -290,4 +309,5 @@
   <action id="javaee.UpdateRunningApplication">
     <keyboard-shortcut first-keystroke="ctrl f10" />
   </action>
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleCodeSpanAction" />
 </keymap>
