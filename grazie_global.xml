@@ -1,10 +1,14 @@
 <application>
   <component name="GraziConfig">
-    <option name="enabledLanguages">
+    <option name="disabledGrammarStrategies">
       <set>
-        <option value="English (US)" />
-        <option value="Chinese" />
+        <option value="tanvd.grazi:JAVA" />
       </set>
+    </option>
+    <option name="checkingContext">
+      <CheckingContext>
+        <option name="isCheckInDocumentationEnabled" value="false" />
+      </CheckingContext>
     </option>
   </component>
 </application>

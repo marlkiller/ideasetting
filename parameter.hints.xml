@@ -1,52 +1,7 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <blacklists>
-      <blacklist language="TypeScript" />
-      <blacklist language="JShell Snippet" />
-      <blacklist language="Java">
-        <removed pattern="(begin*, end*)" />
-        <removed pattern="(start*, end*)" />
-        <removed pattern="(first*, last*)" />
-        <removed pattern="(first*, second*)" />
-        <removed pattern="(from*, to*)" />
-        <removed pattern="(min*, max*)" />
-        <removed pattern="(key, value)" />
-        <removed pattern="(format, arg*)" />
-        <removed pattern="(message)" />
-        <removed pattern="(message, error)" />
-        <removed pattern="*Exception" />
-        <removed pattern="*.set*(*)" />
-        <removed pattern="*.add(*)" />
-        <removed pattern="*.set(*,*)" />
-        <removed pattern="*.get(*)" />
-        <removed pattern="*.create(*)" />
-        <removed pattern="*.getProperty(*)" />
-        <removed pattern="*.setProperty(*,*)" />
-        <removed pattern="*.print(*)" />
-        <removed pattern="*.println(*)" />
-        <removed pattern="*.append(*)" />
-        <removed pattern="*.charAt(*)" />
-        <removed pattern="*.indexOf(*)" />
-        <removed pattern="*.contains(*)" />
-        <removed pattern="*.startsWith(*)" />
-        <removed pattern="*.endsWith(*)" />
-        <removed pattern="*.equals(*)" />
-        <removed pattern="*.equal(*)" />
-        <removed pattern="*.compareTo(*)" />
-        <removed pattern="*.compare(*,*)" />
-        <removed pattern="java.lang.Math.*" />
-        <removed pattern="org.slf4j.Logger.*" />
-        <removed pattern="*.singleton(*)" />
-        <removed pattern="*.singletonList(*)" />
-        <removed pattern="*.Set.of" />
-        <removed pattern="*.ImmutableList.of" />
-        <removed pattern="*.ImmutableMultiset.of" />
-        <removed pattern="*.ImmutableSortedMultiset.of" />
-        <removed pattern="*.ImmutableSortedSet.of" />
-        <removed pattern="*.Arrays.asList" />
-      </blacklist>
-      <blacklist language="Groovy" />
-      <blacklist language="Kotlin" />
+      <blacklist language="Java" />
     </blacklists>
   </component>
 </application>

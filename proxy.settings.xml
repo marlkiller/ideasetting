@@ -1,9 +1,0 @@
-<application>
-  <component name="HttpConfigurable">
-    <option name="PROXY_HOST" value="127.0.0.1" />
-    <option name="PROXY_PORT" value="8888" />
-    <option name="PROXY_EXCEPTIONS" value="*.baidu.com" />
-    <option name="USE_PAC_URL" value="true" />
-    <option name="PAC_URL" value="http://127.0.0.1:1082/pac/?t=20181228143353299" />
-  </component>
-</application>
