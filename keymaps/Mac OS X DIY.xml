@@ -88,7 +88,6 @@
   <action id="EditBreakpoint" />
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
-    <keyboard-shortcut first-keystroke="ctrl meta e" />
     <keyboard-shortcut first-keystroke="enter" />
   </action>
   <action id="EditorAddRectangularSelectionOnMouseDrag">
