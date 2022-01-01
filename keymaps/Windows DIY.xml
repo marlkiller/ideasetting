@@ -165,8 +165,11 @@
   <action id="IntroduceVariable">
     <keyboard-shortcut first-keystroke="ctrl alt v" />
   </action>
+  <action id="JumpToLastChange">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+  </action>
   <action id="JumpToNextChange">
-    <keyboard-shortcut first-keystroke="ctrl alt q" />
+    <keyboard-shortcut first-keystroke="ctrl right" />
   </action>
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="ctrl alt period" />
