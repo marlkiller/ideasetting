@@ -1,3 +1,0 @@
-<application>
-  <component name="GerritSettings" Login="mazhiwu" Host="http://172.16.30.17" ListAllChanges="false" AutomaticRefresh="true" RefreshTimeout="15" ReviewNotifications="true" PushToGerrit="false" ShowChangeNumberColumn="false" ShowChangeIdColumn="false" ShowTopicColumn="false" ShowProjectColumn="AUTO" CloneBaseUrl="" />
-</application>
