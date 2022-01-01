@@ -113,6 +113,8 @@
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="shift meta down" />
   </action>
+  <action id="EmmetNextEditPoint" />
+  <action id="EmmetPreviousEditPoint" />
   <action id="EvaluateExpression">
     <keyboard-shortcut first-keystroke="alt f8" />
     <keyboard-shortcut first-keystroke="meta u" />
@@ -202,8 +204,10 @@
   </action>
   <action id="IncrementWindowHeight" />
   <action id="JumpToLastChange">
-    <keyboard-shortcut first-keystroke="shift meta back_space" />
-    <keyboard-shortcut first-keystroke="ctrl q" />
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="JumpToNextChange">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
