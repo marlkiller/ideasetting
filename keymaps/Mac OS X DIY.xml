@@ -21,6 +21,10 @@
   <action id="ActivateWebToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
+  <action id="CallHierarchy">
+    <keyboard-shortcut first-keystroke="ctrl alt h" />
+    <keyboard-shortcut first-keystroke="ctrl meta h" />
+  </action>
   <action id="ChangeSignature">
     <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
