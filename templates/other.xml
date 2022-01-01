@@ -1,0 +1,18 @@
+<templateSet group="other">
+  <template name="ife" value="if () {&#10;&#10;}else{&#10;&#10;}" description="ifelse" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="syso" value="System.out.println($END$);" description="println" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="test" value="@Test&#10;public void $END$(){&#10;  &#10;}" description="test() method unittest" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="GROOVY_DECLARATION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
