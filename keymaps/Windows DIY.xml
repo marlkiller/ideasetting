@@ -74,6 +74,7 @@
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="EditorFocusGutter" />
+  <action id="EditorMatchBrace" />
   <action id="EditorNextWord" />
   <action id="EditorPreviousWord" />
   <action id="EditorScrollDown" />
@@ -90,7 +91,7 @@
     <keyboard-shortcut first-keystroke="ctrl right" />
   </action>
   <action id="ExpressionTypeInfo">
-    <keyboard-shortcut first-keystroke="alt e" />
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
   <action id="ExtractMethod">
     <keyboard-shortcut first-keystroke="ctrl alt m" />
