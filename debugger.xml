@@ -1,6 +1,5 @@
 <application>
   <component name="DebuggerSettings">
-    <option name="SHOW_ALTERNATIVE_SOURCE" value="false" />
     <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAlways" />
     <filter>
       <option name="PATTERN" value="com.sun.*" />
@@ -83,12 +82,5 @@
     <general>
       <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
     </general>
-    <debuggers>
-      <debugger id="javascript">
-        <configuration>
-          <custom-object-presentation />
-        </configuration>
-      </debugger>
-    </debuggers>
   </component>
 </application>
