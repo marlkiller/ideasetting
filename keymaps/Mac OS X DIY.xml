@@ -18,9 +18,6 @@
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="meta 9" />
   </action>
-  <action id="ActivateWebToolWindow">
-    <keyboard-shortcut first-keystroke="meta 2" />
-  </action>
   <action id="CallHierarchy">
     <keyboard-shortcut first-keystroke="ctrl alt h" />
     <keyboard-shortcut first-keystroke="ctrl meta h" />
@@ -38,6 +35,9 @@
   </action>
   <action id="ClassTemplateNavigation" />
   <action id="CloseActiveTab">
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
   <action id="CloseEditor">
