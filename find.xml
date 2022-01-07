@@ -14,5 +14,6 @@
     <mask>*.sql</mask>
     <mask>*.md</mask>
     <mask>*.xml</mask>
+    <mask>*.py</mask>
   </component>
 </application>
