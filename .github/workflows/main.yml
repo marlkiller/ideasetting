@@ -24,7 +24,7 @@ jobs:
         dst_token:  ${{ secrets.GIT_HUB_TOKEN }}
         #clone_style: SSH
         white_list: ideasetting
-        force_update: true
+        force_update: false
         debug: true
         # 如果是组织，指定组织即可，默认为用户user
         # account_type: org
