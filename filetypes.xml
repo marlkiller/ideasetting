@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="d" type="PLAIN_TEXT" />
       <mapping pattern="data" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="pub_key" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="__schema__" type="PLAIN_TEXT" />
