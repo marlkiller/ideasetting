@@ -12,6 +12,7 @@
       <mapping pattern="s" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="prefs" type="PLAIN_TEXT" />
+      <mapping ext="file" type="PLAIN_TEXT" />
       <mapping ext="wav" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
