@@ -14,8 +14,6 @@
     <mask>*.md</mask>
     <mask>*.xml</mask>
     <mask>*.py</mask>
-    <mask>py</mask>
-    <mask>*.tf</mask>
     <mask>*.json</mask>
   </component>
 </application>

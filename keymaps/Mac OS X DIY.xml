@@ -135,6 +135,9 @@
   <action id="ExpressionTypeInfo">
     <keyboard-shortcut first-keystroke="ctrl meta p" />
   </action>
+  <action id="ExternalSystem.OpenConfig">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
   <action id="ExtractSuperclass">
     <keyboard-shortcut first-keystroke="ctrl meta l" />
   </action>
@@ -207,6 +210,9 @@
   <action id="HippieCompletion" />
   <action id="ImplementMethods" />
   <action id="IncrementWindowHeight" />
+  <action id="Jdbc.OpenEditor.Data">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
   <action id="JumpToLastChange">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
@@ -237,6 +243,9 @@
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="ctrl meta period" />
   </action>
+  <action id="NavBar-navigate">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl n" />
     <keyboard-shortcut first-keystroke="ctrl enter" />
@@ -245,6 +254,9 @@
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl right" />
     <keyboard-shortcut first-keystroke="ctrl end" />
+  </action>
+  <action id="OpenModuleSettings">
+    <keyboard-shortcut first-keystroke="enter" />
   </action>
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="shift meta o" />
@@ -257,6 +269,9 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="ctrl home" />
+  </action>
+  <action id="ProjectViewEditSource">
+    <keyboard-shortcut first-keystroke="enter" />
   </action>
   <action id="QuickChangeScheme" />
   <action id="QuickImplementations">
@@ -273,6 +288,9 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt l" />
     <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
+  <action id="RemoteHostView.EditSource">
+    <keyboard-shortcut first-keystroke="enter" />
   </action>
   <action id="RemoteHostView.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
@@ -330,6 +348,9 @@
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="ctrl meta up" />
   </action>
+  <action id="Sql.EditParameter">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
   <action id="StepOut">
     <keyboard-shortcut first-keystroke="shift meta f8" />
   </action>
@@ -376,11 +397,9 @@
     <keyboard-shortcut first-keystroke="ctrl meta z" />
   </action>
   <action id="VcsShowNextChangeMarker">
-    <keyboard-shortcut first-keystroke="shift ctrl alt down" />
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="VcsShowPrevChangeMarker">
-    <keyboard-shortcut first-keystroke="shift ctrl alt up" />
     <keyboard-shortcut first-keystroke="f3" />
   </action>
   <action id="ViewBreakpoints" />

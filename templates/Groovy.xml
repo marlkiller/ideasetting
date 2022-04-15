@@ -14,10 +14,6 @@
     <variable name="EXPR" expression="variableOfType(&quot;&quot;)" defaultValue="&quot;expr&quot;" alwaysStopAt="true" />
     <variable name="EXPR_COPY" expression="EXPR" defaultValue="" alwaysStopAt="false" />
   </template>
-  <template name="fori" value="for($INDEX$ in 0..&lt;$LIMIT$) {&#10;  $END$&#10;}" description="Create iteration loop" toReformat="true" toShortenFQNames="true">
-    <variable name="INDEX" expression="suggestIndexName()" defaultValue="" alwaysStopAt="true" />
-    <variable name="LIMIT" expression="" defaultValue="" alwaysStopAt="true" />
-  </template>
   <template name="itar" value="for(int $INDEX$ = 0; $INDEX$ &lt; $ARRAY$.length; $INDEX$++) {&#10;  $ELEMENT_TYPE$ $VAR$ = $ARRAY$[$INDEX$];&#10;  $END$&#10;}" description="Iterate elements of array" toReformat="true" toShortenFQNames="true">
     <variable name="INDEX" expression="suggestIndexName()" defaultValue="" alwaysStopAt="true" />
     <variable name="ARRAY" expression="arrayVariable()" defaultValue="&quot;array&quot;" alwaysStopAt="true" />
@@ -98,10 +94,5 @@
     <variable name="CLASS_NAME" expression="className" defaultValue="" alwaysStopAt="false" />
     <variable name="VALUE" expression="variableOfType(CLASS_NAME)" defaultValue="null" alwaysStopAt="true" />
   </template>
-  <template name="St" value="String " description="String" toReformat="false" toShortenFQNames="false" />
-  <template name="psf" value="public static final " description="public static final" toReformat="false" toShortenFQNames="false" />
-  <template name="prsf" value="private static final " description="private static final" toReformat="false" toShortenFQNames="false" />
-  <template name="psfi" value="public static final int " description="public static final int" toReformat="false" toShortenFQNames="false" />
-  <template name="psfs" value="public static final String " description="public static final String" toReformat="false" toShortenFQNames="false" />
   <template name="thr" value="throw new " description="throw new" toReformat="false" toShortenFQNames="false" />
 </templateSet>
