@@ -1,9 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.json</mask>
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
+    <option name="SEARCH_SCOPE" value="Solution" />
     <mask>*.yml</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
@@ -14,6 +13,8 @@
     <mask>*.sql</mask>
     <mask>*.md</mask>
     <mask>*.xml</mask>
+    <mask>*.json</mask>
+    <mask>*.tf</mask>
     <mask>*.py</mask>
   </component>
 </application>
