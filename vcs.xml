@@ -114,9 +114,13 @@
           <option name="url" value="https://github.com/open-dingtalk/org-mini-program-tutorial-java.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/marlkiller/d3dhook_imgui" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/develop/workSpace/python" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/develop/workSpace/c" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
