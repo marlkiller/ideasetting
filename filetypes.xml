@@ -1,15 +1,15 @@
 <application>
   <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*$py.class;*.iml;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.idea;.mvn;.svn;CVS;__pycache__;_svn;mvnw;mvnw.cmd;vssver.scc;vssver2.scc" />
+    <ignoreFiles list="*$py.class;*.iml;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.idea;.mvn;.pytest_cache;.svn;CVS;__pycache__;_svn;mvnw;mvnw.cmd;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping pattern="data" type="PLAIN_TEXT" />
+      <mapping pattern=".factorypath" type="PLAIN_TEXT" />
       <mapping pattern="d" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="pub_key" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="__schema__" type="PLAIN_TEXT" />
       <mapping pattern="s" type="PLAIN_TEXT" />
-      <mapping pattern=".factorypath" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="prefs" type="PLAIN_TEXT" />
       <mapping ext="file" type="PLAIN_TEXT" />
