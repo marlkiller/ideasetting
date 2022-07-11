@@ -134,9 +134,17 @@
           <option name="url" value="ssh://git@git.bmwgroup.net:7999/tspfpc/tspaws-cli.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://atc.bmwgroup.net/bitbucket/scm/tspfpc/data-cleaning.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@git.bmwgroup.net:7999/tspfpc/data-cleaning.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\QXZ2KPZ\Documents\work_space\bmw" />
+    <option name="cloneParentDir" value="C:\Users\QXZ2KPZ\Desktop\workspace\bmw" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
