@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="91.134.238.131" id="e60bc317-edfe-42f3-8b2c-382106d2a792" port="8082" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
+      <sshConfig host="open.voidm.com" id="ac23e06f-8211-4b32-bc2f-e15fb326174c" keyPath="$USER_HOME$/Documents/env/private/aws-key-singap.pem" port="22" nameFormat="DESCRIPTIVE" username="centos" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
