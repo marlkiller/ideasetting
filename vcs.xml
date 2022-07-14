@@ -131,7 +131,15 @@
           <option name="userName" value="marlkiller" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="ssh://git@git.bmwgroup.net:7999/fpcbmw/bmwaws-cli.git" />
+          <option name="url" value="ssh://git@git.bmwgroup.net:7999/tspfpc/tspaws-cli.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://atc.bmwgroup.net/bitbucket/scm/tspfpc/data-cleaning.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@git.bmwgroup.net:7999/tspfpc/data-cleaning.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
