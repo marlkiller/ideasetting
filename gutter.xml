@@ -38,6 +38,8 @@
         <entry key="SpringTestConfigurationAnnotator" value="true" />
         <entry key="SwOpenInHttpClientLineMarkerProvider" value="true" />
         <entry key="WebflowRelatedItemLineMarkerProvider" value="true" />
+        <entry key="com.goide.go.GoGotoSuperHandler$GoSuperMarkerProvider" value="true" />
+        <entry key="com.goide.go.GoInheritorsSearch$GoInheritorMarkerProvider" value="true" />
         <entry key="com.intellij.aop.jam.AopJavaAnnotator" value="true" />
         <entry key="com.intellij.beanValidation.providers.BvConfigLineMarkerProvider" value="true" />
         <entry key="com.intellij.beanValidation.providers.BvConstraintLineMarkerProvider" value="true" />
