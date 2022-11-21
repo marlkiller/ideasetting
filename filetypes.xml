@@ -4,14 +4,17 @@
     <extensionMap>
       <mapping pattern="jssecacerts" type="AUTO_DETECTED" />
       <mapping pattern="privateKey" type="AUTO_DETECTED" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="data" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="__schema__" type="PLAIN_TEXT" />
+      <mapping pattern=".factorypath" type="PLAIN_TEXT" />
       <mapping pattern="d" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="pub_key" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="__schema__" type="PLAIN_TEXT" />
       <mapping pattern="s" type="PLAIN_TEXT" />
-      <mapping pattern=".factorypath" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="prefs" type="PLAIN_TEXT" />
       <mapping ext="file" type="PLAIN_TEXT" />
@@ -30,9 +33,6 @@
       <removed_mapping ext="pfx" approved="true" type="Binary" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="space.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
