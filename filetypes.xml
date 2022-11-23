@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="jssecacerts" type="AUTO_DETECTED" />
       <mapping pattern="privateKey" type="AUTO_DETECTED" />
+      <mapping pattern="tfplan" type="AUTO_DETECTED" />
       <mapping pattern="data" type="PLAIN_TEXT" />
       <mapping pattern="d" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
