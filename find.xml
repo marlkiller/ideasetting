@@ -16,7 +16,7 @@
     <mask>*.md</mask>
     <mask>*.xml</mask>
     <mask>*.json</mask>
-    <mask>*.tf</mask>
     <mask>*.py</mask>
+    <mask>*.tf</mask>
   </component>
 </application>
