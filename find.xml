@@ -1,0 +1,22 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="skipResultsWithOneUsage" value="true" />
+    <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.yml</mask>
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.properties</mask>
+    <mask>*.kt</mask>
+    <mask>*.java</mask>
+    <mask>*.sql</mask>
+    <mask>*.md</mask>
+    <mask>*.xml</mask>
+    <mask>*.json</mask>
+    <mask>*.tf</mask>
+    <mask>*.py</mask>
+  </component>
+</application>

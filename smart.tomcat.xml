@@ -1,0 +1,11 @@
+<application>
+  <component name="ServerConfiguration">
+    <option name="tomcatInfos">
+      <TomcatInfo>
+        <option name="name" value="Apache Tomcat/8.5.73" />
+        <option name="path" value="$USER_HOME$/Documents/mid_soft/apache-tomcat-8-dev" />
+        <option name="version" value="8.5.73.0" />
+      </TomcatInfo>
+    </option>
+  </component>
+</application>
